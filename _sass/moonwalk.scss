@@ -25,14 +25,14 @@ pre, code {
 }
 
 h1 {
-  font-size: Clamp(1.85rem, 1.5rem + 1.6vw, 2.4rem);
+  font-size: unquote("clamp(1.85rem, 1.5rem + 1.6vw, 2.4rem)");
   letter-spacing: -0.025em;
   font-weight: 700;
   line-height: 1.15;
 }
 
 h2 {
-  font-size: Clamp(1.4rem, 1.2rem + 1vw, 1.7rem);
+  font-size: unquote("clamp(1.4rem, 1.2rem + 1vw, 1.7rem)");
   letter-spacing: -0.02em;
   font-weight: 600;
   line-height: 1.2;
@@ -806,7 +806,7 @@ html[data-theme="dark"] {
 // -------------- FOOTNOTE TOOLTIP -------------- //
 .fn-tooltip {
   position: absolute;
-  max-width: Min(420px, 90vw);
+  max-width: unquote("min(420px, 90vw)");
   padding: 0.75em 1em;
   background-color: var(--bg);
   color: var(--text);
@@ -867,7 +867,7 @@ details:not(.toc):not([class*="markdown-alert"]) {
 // -------------- LINK PREVIEW CARD -------------- //
 .link-preview {
   position: absolute;
-  max-width: Min(360px, 80vw);
+  max-width: unquote("min(360px, 80vw)");
   padding: 0.85em 1em;
   background-color: var(--bg);
   border: 1px solid var(--border);
