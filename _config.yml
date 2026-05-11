@@ -1,83 +1,12 @@
 title: DECK
-author: DECK Innsbruck
-url: https://deck-innsbruck.at/
-baseurl: ""
 description: >
   Akademische Sammelkartenspiel-Gemeinschaft an der Universität Innsbruck.
   Wir spielen Magic: The Gathering, Lorcana, Riftbound, Seeker Chronicles
   und weitere Trading Card Games.
 
-permalink: /:slug
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-midnight
 
-# Optional: Social preview settings.
-# Wenn ihr später einen eigenen Twitter/X Account habt, kannst du ihn hier eintragen.
-# Sonst kann dieser Block auch gelöscht werden.
-twitter:
-  username: ""
-  card: summary_large_image
-
-# Moonwalk theme for GitHub Pages
-#remote_theme: abhinavs/moonwalk
-
-theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
-  appearance_toggle: true # if appearance can be switched by user
-  date_format: "%Y-%m-%d"
-
-  # General layout
-  show_description: true
-  show_navbar: true
-  show_footer: true
-  show_copyright: true
-
-  # Home page sections
-  show_projects: true
-  show_blog: false
-  show_old_projects: false
-  show_misc_list: false
-
-  # Blog/post features; can stay enabled even if blog is hidden
-  show_reading_time: true
-  show_tags: true
-  show_code_copy: true
-  show_progress_bar: true
-  show_back_to_top: true
-  show_post_nav: true
-  show_toc: true
-  show_footnote_tooltips: true
-  show_link_previews: true
-
-  home:
-    title_projects: Bereiche
-    title_misc_list: Details
-    title_blog: News
-    title_old_projects: Archiv
-
-soopr:
-  publish_token: ""
-
-highlighter: rouge
-
-sass:
-  style: :compressed
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-soopr-seo-tag
-  - jekyll-markdown-output
-  - jekyll-llms-output
-
-# Emit a clean .md sibling for each post, e.g. /foo -> /foo.md.
-# Kann bleiben, stört nicht.
-markdown_output:
-  collections: [posts]
-
-# Emit /llms.txt and /llms-full.txt.
-# Kann bleiben, stört nicht.
-llms_output:
-  index:
-    collections: [posts]
-  full:
-    collections: [posts]
-    respect_markdown_output: true
+url: https://deck-innsbruck.at
+baseurl: ""
