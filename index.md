@@ -1,123 +1,62 @@
 ---
 layout: default
+title: DECK
+lang: de
+en_url: /en/
+permalink: /
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<div class="deck-hero">
+  <img class="deck-home-logo" src="/images/DECK-logo.jpeg" alt="DECK Logo">
 
-[Link to another page](./another-page.html).
+  <p>
+    Wir sind eine studentische Gemeinschaft für Strategische Kartenspiele wie TCGs (Trading Card Games), Deck Builder und einigie mehr an der Universität Innsbruck. Bei uns treffen sich Studierende, Universitätsangehörige und TCG-Spieler:innen zum gemeinsamen Spielen, Lernen und Austauschen.
+  </p>
+</div>
 
-There should be whitespace between paragraphs.
+## Willkommen bei DECK
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+DECK ist eine studentische Gemeinschaft für Trading Card Games an der Universität Innsbruck.  
+Bei uns treffen sich Studierende, Universitätsangehörige und TCG-Interessierte zum Spielen, Tauschen, Lernen und Organisieren gemeinsamer Events.
 
-# Header 1
+Neue Spielerinnen und Spieler sind willkommen — egal ob du schon Erfahrung hast oder zum ersten Mal ein Trading Card Game ausprobieren möchtest.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Bereiche
 
-## Header 2
+<div class="deck-grid">
+  <div class="deck-card">
+    <h3>Über uns</h3>
+    <p>Wer wir sind, was DECK macht und wie unsere Gemeinschaft entstanden ist.</p>
+    <p><a href="/about">Mehr erfahren</a></p>
+  </div>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+  <div class="deck-card">
+    <h3>Mitmachen</h3>
+    <p>Informationen für neue Spielerinnen und Spieler: Wer kommen kann, was du brauchst und wie du uns findest.</p>
+    <p><a href="/join">Mitmachen</a></p>
+  </div>
 
-### Header 3
+  <div class="deck-card">
+    <h3>Spiele</h3>
+    <p>Magic: The Gathering, Lorcana, Riftbound, Seeker Chronicles und weitere Trading Card Games.</p>
+    <p><a href="/games">Spiele ansehen</a></p>
+  </div>
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+  <div class="deck-card">
+    <h3>Events</h3>
+    <p>Treffen, Demo-Tage, Turniere und gemeinsame Vereinsaktivitäten.</p>
+    <p><a href="/events">Events ansehen</a></p>
+  </div>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+  <div class="deck-card">
+    <h3>FAQ</h3>
+    <p>Antworten auf häufige Fragen zu Teilnahme, Anfängerfreundlichkeit, Karten, Kosten und Treffen.</p>
+    <p><a href="/faq">FAQ lesen</a></p>
+  </div>
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+  <div class="deck-card">
+    <h3>Kontakt</h3>
+    <p>Hier findest du unsere Kontaktmöglichkeiten und Links zu unseren Kanälen.</p>
+    <p><a href="/contact">Kontakt aufnehmen</a></p>
+  </div>
+</div>
