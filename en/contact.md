@@ -21,7 +21,7 @@ permalink: /en/contact
       For general questions, collaborations, or organizational matters, you can reach us by email.
     </p>
     <p>
-      <strong>Email:</strong> <a href="mailto:YOUR-EMAIL-HERE">YOUR-EMAIL-HERE</a>
+      <strong>Email:</strong> <a href="mailto:deck.innsbruck@gmail.com">deck.innsbruck@gmail.com</a>
     </p>
   </div>
 
@@ -31,18 +31,8 @@ permalink: /en/contact
       For quick questions, WhatsApp is preferred.
     </p>
     <p>
-      <strong>Phone:</strong> <a href="tel:YOUR-PHONE-HERE">YOUR-PHONE-HERE</a><br>
+      <strong>Phone:</strong> <a href="tel:+4367761283914">+43 677 6128 3914</a><br>
       <strong>Preferred:</strong> WhatsApp
-    </p>
-  </div>
-
-  <div class="deck-card">
-    <h3>WhatsApp Community</h3>
-    <p>
-      Through our WhatsApp community, you can receive current information, dates, and announcements.
-    </p>
-    <p>
-      <a href="YOUR-WHATSAPP-LINK-HERE">Join the WhatsApp community</a>
     </p>
   </div>
 
@@ -52,7 +42,7 @@ permalink: /en/contact
       On Instagram, we share announcements, impressions from events, and current information.
     </p>
     <p>
-      <a href="YOUR-INSTAGRAM-LINK-HERE">YOUR-INSTAGRAM-NAME-HERE</a>
+      <a href="https://www.instagram.com/deck_innsbruck?igsh=MXY5NGFyZWFud2RmMQ==">deck_innsbruck</a>
     </p>
   </div>
 </div>

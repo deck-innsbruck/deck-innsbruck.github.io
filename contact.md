@@ -21,7 +21,7 @@ permalink: /contact
       Für allgemeine Anfragen, Kooperationen oder organisatorische Themen erreichst du uns per E-Mail.
     </p>
     <p>
-      <strong>E-Mail:</strong> <a href="mailto:DEINE-EMAIL-HIER">DEINE-EMAIL-HIER</a>
+      <strong>E-Mail:</strong> <a href="mailto:deck.innsbruck@gmail.com">deck.innsbruck@gmail.com</a>
     </p>
   </div>
 
@@ -31,18 +31,8 @@ permalink: /contact
       Für schnelle Rückfragen ist WhatsApp bevorzugt.
     </p>
     <p>
-      <strong>Telefon:</strong> <a href="tel:DEINE-NUMMER-HIER">DEINE-NUMMER-HIER</a><br>
+      <strong>Telefon:</strong> <a href="tel:+4367761283914">+43 677 6128 3914</a><br>
       <strong>Bevorzugt:</strong> WhatsApp
-    </p>
-  </div>
-
-  <div class="deck-card">
-    <h3>WhatsApp-Community</h3>
-    <p>
-      Über unsere WhatsApp-Community erhältst du aktuelle Informationen, Termine und Ankündigungen.
-    </p>
-    <p>
-      <a href="DEIN-WHATSAPP-LINK-HIER">Zur WhatsApp-Community</a>
     </p>
   </div>
 
@@ -52,7 +42,7 @@ permalink: /contact
       Auf Instagram teilen wir Ankündigungen, Eindrücke von Events und aktuelle Informationen.
     </p>
     <p>
-      <a href="DEIN-INSTAGRAM-LINK-HIER">DEIN-INSTAGRAM-NAME-HIER</a>
+      <a href="https://www.instagram.com/deck_innsbruck?igsh=MXY5NGFyZWFud2RmMQ==">deck_innsbruck</a>
     </p>
   </div>
 </div>
