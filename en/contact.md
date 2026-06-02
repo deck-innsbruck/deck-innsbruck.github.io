@@ -37,12 +37,22 @@ permalink: /en/contact
   </div>
 
   <div class="deck-card">
+    <h3>WhatsApp Community</h3>
+    <p>
+      Through our WhatsApp community, you can receive current information, dates, and announcements.
+    </p>
+    <p>
+      You can receive the invitation link via WhatsApp, at our meetings, or on request by email.
+    </p>
+  </div>
+
+  <div class="deck-card">
     <h3>Instagram</h3>
     <p>
       On Instagram, we share announcements, impressions from events, and current information.
     </p>
     <p>
-      <a href="https://www.instagram.com/deck_innsbruck?igsh=MXY5NGFyZWFud2RmMQ==">deck_innsbruck</a>
+      <a href="https://www.instagram.com/deck_innsbruck/">@deck_innsbruck</a>
     </p>
   </div>
 </div>
@@ -87,3 +97,5 @@ Tyrol, Austria
 ## Note
 
 Please note that DECK is organized voluntarily by students. It may therefore sometimes take a little while until we reply.
+
+When using WhatsApp or Instagram, the privacy policies and terms of use of the respective platforms apply.

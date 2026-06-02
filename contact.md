@@ -37,12 +37,22 @@ permalink: /contact
   </div>
 
   <div class="deck-card">
+    <h3>WhatsApp-Community</h3>
+    <p>
+      Über unsere WhatsApp-Community erhältst du aktuelle Informationen, Termine und Ankündigungen.
+    </p>
+    <p>
+      Den Einladungslink erhältst du über WhatsApp, bei unseren Treffen oder auf Anfrage per E-Mail.
+    </p>
+  </div>
+
+  <div class="deck-card">
     <h3>Instagram</h3>
     <p>
       Auf Instagram teilen wir Ankündigungen, Eindrücke von Events und aktuelle Informationen.
     </p>
     <p>
-      <a href="https://www.instagram.com/deck_innsbruck?igsh=MXY5NGFyZWFud2RmMQ==">deck_innsbruck</a>
+      <a href="https://www.instagram.com/deck_innsbruck/">@deck_innsbruck</a>
     </p>
   </div>
 </div>
@@ -87,3 +97,5 @@ Tirol, Österreich
 ## Hinweis
 
 Bitte beachte, dass DECK von Studierenden ehrenamtlich organisiert wird. Es kann daher manchmal etwas dauern, bis wir antworten.
+
+Bei der Nutzung von WhatsApp oder Instagram gelten die Datenschutz- und Nutzungsbedingungen der jeweiligen Plattform.
