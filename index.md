@@ -10,7 +10,7 @@ permalink: /
   <img class="deck-home-logo" src="/images/DECK-logo.jpeg" alt="DECK Logo">
 
   <p>
-    Wir sind eine studentische Gemeinschaft für Strategische Kartenspiele wie TCGs (Trading Card Games), Deck Builder und einigie mehr an der Universität Innsbruck. Bei uns treffen sich Studierende, Universitätsangehörige und TCG-Spieler:innen zum gemeinsamen Spielen, Lernen und Austauschen.
+    Wir sind eine studentische Gemeinschaft für Strategische Kartenspiele wie TCGs (Trading Card Games), Deck Builder und einige mehr an der Universität Innsbruck. Bei uns treffen sich Studierende, Universitätsangehörige und TCG-Spieler:innen zum gemeinsamen Spielen, Lernen und Austauschen.
   </p>
 </div>
 
